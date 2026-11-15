@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 69d73706a279bbd409094cd457e3e8e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - appleSE: {fileID: 8300000, guid: 98829aee686afaf4f98f1726feda7756, type: 3}
+  - bombSE: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
